@@ -2,5 +2,5 @@
 
 def display_board
   display_board = '"    " | "    " | "   "';
-  display_board =
+  display_board = "-----------"
 end
